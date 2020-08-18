@@ -17,9 +17,25 @@ __Reference Links__
 
 __My Example Codes__
 
+[Python Basic 2.0 Input](https://repl.it/@Chaisup/PyTutorBasic20#main.py) 
+
 [Python Basic 2.1 Analyzing Rectangle](https://repl.it/@Chaisup/PyTutorBasic21#main.py) 
 
 [Python Basic 2.2 Grade Calculation](https://repl.it/@Chaisup/PyTutorBasic22#main.py) 
+
+
+__My Example Code : Python Basic 2.0 Input__
+
+```python
+a = input('Please type your name: ')
+print('Hello, ' + a + '!')
+
+b = input('Please type your number: ')
+print('Your number is ' + b)
+
+c = float(b) * float(b) # This means c = b * b
+print('The square of your number is ' + str(c))
+```
 
 
 __Useful Python Commands in CMD__

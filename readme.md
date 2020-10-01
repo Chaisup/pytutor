@@ -52,4 +52,10 @@ __Useful Python Commands in CMD__
     pip install openpyxl
     pip install xlrd
     pip install xlsxwriter
+    
+    #if pip not installed
+    python -m ensurepip --default-pip
+    
+    #if we want to uninstall some modules
+    pip uninstall <module_ame>
 
